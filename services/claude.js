@@ -88,4 +88,4 @@ Génère UNIQUEMENT ce JSON :
   return JSON.parse(jsonMatch[0]);
 }
 
-module.exports = { genererRapportIA };
+module.exports = { genererRapportIA }

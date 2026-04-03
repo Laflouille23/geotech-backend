@@ -46,4 +46,4 @@ async function getBRGMStaticImage(lat, lon) {
   }
 }
 
-module.exports = { captureGeoportail, getBRGMStaticImage }
+module.exports = { captureGeoportail, getBRGMStaticImage };
